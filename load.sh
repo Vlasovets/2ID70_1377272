@@ -1,4 +1,4 @@
 #!/bin/bash
 echo 'My first name is OLeg'
 sleep 5s
-echo 'Pause'
+echo 'Total 121313'
